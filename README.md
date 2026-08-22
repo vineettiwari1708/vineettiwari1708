@@ -72,7 +72,7 @@ I build complete, self-hosted software systems — from the database schema to t
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vineettiwari1708&theme=dracula&no-frame=true&row=1&column=6" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vineettiwari1708&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
