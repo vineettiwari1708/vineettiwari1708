@@ -7,7 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:vineettiwari1708@gmail.com">vineettiwari1708@gmail.com</a>
+  <img src="https://komarev.com/ghpvc/?username=vineettiwari1708&style=for-the-badge&color=764ba2" alt="Profile Views" />
+  &nbsp;
+  <a href="mailto:vineettiwari1708@gmail.com">
+    <img src="https://img.shields.io/badge/Email-764ba2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -65,9 +69,17 @@ I build complete, self-hosted software systems — from the database schema to t
 
 ---
 
+### GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vineettiwari1708&theme=dracula&no-frame=true&row=1&column=6" width="100%" />
+</p>
+
+---
+
 ### Featured Projects
 
-#### [ERP System](https://github.com/vineettiwari1708/erp-system)
+#### [ERP System](https://github.com/vineettiwari1708/erpnew-docker)
 Multi-tenant SaaS ERP built from scratch — invoicing, payments, ledger, role-based access, audit logs, and a full backup/restore system. Runs on Docker with PostgreSQL and Redis.
 
 `Node.js` `React` `PostgreSQL` `Prisma` `Redis` `Docker` `TypeScript`
@@ -85,6 +97,22 @@ Self-hosted server monitoring dashboard. Lightweight agent reports CPU, RAM, dis
 2-minute auto-scaling demo — injects CPU stress into a backend container, fires HTTP traffic through Nginx, and automatically scales replicas up/down based on CPU thresholds. Metrics visible live in ServerPilot.
 
 `PowerShell` `Docker` `Nginx` `Node.js`
+
+---
+
+### Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vineettiwari1708/vineettiwari1708/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vineettiwari1708/vineettiwari1708/dist/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/vineettiwari1708/vineettiwari1708/dist/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vineettiwari1708&theme=dracula" width="100%" />
+</p>
 
 ---
 
