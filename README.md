@@ -69,10 +69,12 @@ I build complete, self-hosted software systems — from the database schema to t
 
 ---
 
-### GitHub Trophies
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vineettiwari1708&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com?user=vineettiwari1708&theme=dracula&hide_border=true&border_radius=10" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineettiwari1708&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="165" />
 </p>
 
 ---
