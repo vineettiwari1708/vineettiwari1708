@@ -86,7 +86,7 @@ Multi-tenant SaaS ERP built from scratch — invoicing, payments, ledger, role-b
 
 ---
 
-#### [ServerPilot](https://github.com/vineettiwari1708/serverpilot)
+#### [ServerPilot](https://github.com/vineettiwari1708/erpnew-docker)
 Self-hosted server monitoring dashboard. Lightweight agent reports CPU, RAM, disk, Docker containers, and live application metrics (req/s, error rate, latency) every 30 seconds. Real-time alerts, deployment tracking, and fault vs. load diagnosis.
 
 `Node.js` `React` `TypeScript` `PostgreSQL` `Docker`
