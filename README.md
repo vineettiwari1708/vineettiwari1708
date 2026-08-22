@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Vineet Tiwari 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100=58a6ff&height=200&section=header&text=Vineet%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20DevOps%20%C2%B7%20Open%20Source&descAlignY=58&descSize=18" width="100%" />
+</p>
 
 <p align="center">
-  Full-Stack Developer · DevOps · Building production-ready systems from scratch
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+production-ready+systems;Node.js+%7C+React+%7C+TypeScript;Docker+%7C+PostgreSQL+%7C+Redis;From+schema+to+monitoring+dashboard" />
 </p>
 
 <p align="center">
@@ -86,12 +88,6 @@ Self-hosted server monitoring dashboard. Lightweight agent reports CPU, RAM, dis
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vineettiwari1708&theme=github-dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineettiwari1708&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" />
-</p>
 
 ---
 
