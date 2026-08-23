@@ -94,7 +94,6 @@ Self-hosted server monitoring dashboard. Lightweight agent reports CPU, RAM, dis
 ---
 
 ### Contribution Activity
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vineettiwari1708/vineettiwari1708/dist/github-contribution-grid-snake-dark.svg" />
@@ -103,11 +102,7 @@ Self-hosted server monitoring dashboard. Lightweight agent reports CPU, RAM, dis
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vineettiwari1708&theme=dracula" width="100%" />
-</p>
-
----
+----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%" />
